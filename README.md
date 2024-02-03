@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Chinnayya Chintha 👋
 
-I'm Chinnayya Chintha, a passionate Cloud Engineer and DevOps enthusiast. 👨‍💻
-
+As a newcomer to the industry, I am eager to kick-start my career in DevOps Engineering, Cloud Engineering, and System Administration, bringing a solid foundation, a quick learning attitude, and a commitment to excellence.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on expanding my expertise in AWS and DevOps tools.
 - 🌱 I’m currently learning new techniques to optimize cloud infrastructure and enhance CI/CD workflows.
 - 👯 I’m looking to collaborate on projects that leverage cloud technologies for scalable and efficient solutions.
