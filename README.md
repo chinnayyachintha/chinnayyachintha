@@ -1,3 +1,4 @@
+```
 ### Hi there, I'm Chinnayya Chintha 👋
 
 As a newcomer to the industry, I am eager to kick-start my career in DevOps Engineering, Cloud Engineering, OpenShift and System Administration, bringing a solid foundation, a quick learning attitude, and a commitment to excellence.
@@ -10,3 +11,4 @@ As a newcomer to the industry, I am eager to kick-start my career in DevOps Engi
 - ⚡ Fun fact: I enjoy automating repetitive tasks to make life simpler! 😄
 
 Let's connect and explore the endless possibilities of cloud and DevOps together!
+```
