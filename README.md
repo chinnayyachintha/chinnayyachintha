@@ -4,17 +4,17 @@
 
 ---
 
-## 🌟 About Me
-I'm passionate about building reliable, scalable, and secure cloud solutions using modern DevOps practices. With expertise in **Amazon Web Services (AWS)**, **Kubernetes**, and **CI/CD automation**, I strive to optimize infrastructure, automate deployments, and improve system performance. I enjoy solving complex challenges and sharing knowledge with the community.
+## 🌟 About Me  
+I'm passionate about crafting **reliable**, **scalable**, and **secure cloud solutions** using modern DevOps practices. With a strong foundation in **Amazon Web Services (AWS)**, **Kubernetes**, and **CI/CD automation**, I excel at optimizing infrastructure, automating deployments, and enhancing system performance. I thrive on solving complex challenges and sharing my knowledge with the DevOps community.
 
 ---
 
 ## 🔧 Technical Skills
-- **Cloud Platforms:** AWS (VPC, EC2, S3, RDS, ELB, CloudWatch, IAM, EKS, CloudTrail)
-- **DevOps Tools:** Terraform, Salt/Ansible, Jenkins, Docker, Kubernetes
-- **CI/CD:** Jenkins, Argo CD, Git, Bitbucket
-- **Monitoring:** Prometheus, Grafana, ELK Stack
-- **Programming:** Python, Bash, Core Java
+- **Cloud Platforms:** AWS (VPC, EC2, S3, RDS, ELB, CloudWatch, IAM, EKS, CloudTrail)  
+- **DevOps Tools:** Terraform, Salt/Ansible, Jenkins, Docker, Kubernetes  
+- **CI/CD:** Jenkins, Argo CD, Git, Bitbucket  
+- **Monitoring:** Prometheus, Grafana, ELK Stack  
+- **Programming:** Python, Bash, Core Java  
 - **Networking & Security:** DevSecOps Best Practices, Linux Administration
 
 ---
@@ -35,6 +35,12 @@ I'm passionate about building reliable, scalable, and secure cloud solutions usi
 - Integrated **Prometheus** and **Grafana** for real-time monitoring and alerting.
 - Improved application uptime by 15% through proactive troubleshooting.
 
+### **Payment Gateway Implementation**
+- Designed and implemented a secure payment gateway solution using **AWS API Gateway**, **Lambda**, and **DynamoDB**, ensuring PCI-DSS compliance.
+- Automated infrastructure provisioning with **Terraform**, enhancing scalability and reducing setup time.
+- Integrated **tokenization**, **encryption (AWS KMS)**, and **idempotency mechanisms** to improve data security and transaction reliability.
+- Developed monitoring solutions using **CloudWatch** to reduce downtime and enable proactive issue resolution.
+
 ---
 
 ## 🚀 What I'm Working On
@@ -44,11 +50,11 @@ I'm passionate about building reliable, scalable, and secure cloud solutions usi
 
 ---
 
-## 📫 Let's Connect!
-- **Email:** [chinthayadav6@gmail.com](mailto:chinthayadav6@gmail.com)
-- **LinkedIn:** [linkedin.com/in/chinnayyadevopsengineer/](https://www.linkedin.com/in/chinnayyadevopsengineer/)
-- **Portfolio:** [GitHub Profile](https://github.com/chinnayyachintha)
+## 📢 Let's Connect!
+- **Email:** [chinthayadav6@gmail.com](mailto:chinthayadav6@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/chinnayyadevopsengineer/](https://www.linkedin.com/in/chinnayyadevopsengineer/)  
+- **Portfolio:** [GitHub Profile](https://github.com/chinnayyachintha)  
 
 ---
 
-⚡ **Fun Fact:** I love automating repetitive tasks to simplify life and focus on impactful innovations. 😊
+🔋 **Fun Fact:** I love automating repetitive tasks to simplify life and focus on impactful innovations. ☺️
