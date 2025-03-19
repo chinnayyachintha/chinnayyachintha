@@ -1,27 +1,25 @@
 # Chinnayya Chintha 👋  
 
-🚀 **Site Reliability Engineer | AWS | Kubernetes | CI/CD Automation**  
+🚀 **DevOps Engineer | Cloud Automation | AWS Infrastructure Management | CI/CD Optimization**  
 
 ---
 
 ## 🌟 About Me  
-Hi! I'm Chinnayya, a passionate **Site Reliability Engineer** dedicated to building **reliable**, **scalable**, and **secure cloud solutions**. I specialize in **Amazon Web Services (AWS)**, **Kubernetes**, and **CI/CD automation**, with a proven track record of optimizing infrastructure and streamlining deployments. My focus is on solving complex challenges, ensuring system performance, and sharing knowledge with the DevOps community.
+Hi! I'm Chinnayya, a passionate **DevOps Engineer** specializing in **AWS cloud infrastructure**, **Kubernetes**, and **CI/CD automation**. I have **2 years of experience** in optimizing cloud environments, automating deployments, and ensuring high availability. My focus is on **Infrastructure as Code (IaC)**, **cloud security**, and **continuous integration and delivery (CI/CD)**. I love solving complex infrastructure challenges and sharing knowledge with the DevOps community.
 
 ---
 
 ## 🔧 Technical Skills  
 - **Cloud Platforms:**  
-  - AWS (VPC, EC2, S3, RDS, ELB, CloudWatch, IAM, EKS, CloudTrail)  
+  - AWS (VPC, EC2, S3, RDS, Lambda, API Gateway, DynamoDB, IAM, CloudTrail, CloudWatch, Route53, VPN)  
 - **DevOps Tools:**  
-  - Terraform, Salt/Ansible, Jenkins, Docker, Kubernetes  
+  - Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Azure DevOps  
 - **CI/CD:**  
   - Jenkins, Argo CD, Git, Bitbucket  
-- **Monitoring:**  
-  - Prometheus, Grafana, ELK Stack  
+- **Monitoring & Security:**  
+  - Prometheus, Grafana, Datadog, ELK Stack, SonarQube, OWASP, Kali Linux  
 - **Programming Languages:**  
-  - Python, Bash, Core Java  
-- **Networking & Security:**  
-  - DevSecOps Best Practices, Linux Administration  
+  - Python, Bash, YAML, JSON  
 
 ---
 
@@ -42,26 +40,21 @@ Hi! I'm Chinnayya, a passionate **Site Reliability Engineer** dedicated to build
 - Integrated **Prometheus** and **Grafana** for real-time monitoring and alerting.  
 - Enhanced application uptime by 15% through proactive troubleshooting and issue resolution.  
 
-### **4. Secure Payment Gateway Implementation**  
-- Designed and implemented a **secure payment gateway** using **AWS API Gateway**, **Lambda**, and **DynamoDB** with PCI-DSS compliance.  
-- Automated infrastructure provisioning with **Terraform**, improving scalability and setup efficiency.  
-- Integrated **tokenization**, **AWS KMS encryption**, and **idempotency mechanisms** for robust security.  
-- Set up **CloudWatch monitoring**, reducing downtime and ensuring proactive resolution of issues.  
-
 ---
 
 ## 🚀 Current Focus  
-- Enhancing expertise in **OpenShift** and advanced DevOps tools like **Argo CD**.  
-- Exploring ways to optimize **cloud infrastructure performance**.  
-- Contributing to projects that push the boundaries of **cloud innovation**.  
+- Enhancing expertise in **Argo CD** and **OpenShift**.  
+- Exploring **advanced cloud security strategies** and **cost optimization techniques**.  
+- Writing **technical blogs** on **AWS**, **Terraform**, and **Kubernetes**.  
 
 ---
 
 ## 📢 Get in Touch!  
-- **Email:** [chinthayadav6@gmail.com](mailto:chinthayadav6@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/chinnayyadevopsengineer/](https://www.linkedin.com/in/chinnayyadevopsengineer/)  
+- **Email:** [chinnayya339@gmail.com](mailto:chinnayya339@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/chinnayyadevops/](https://www.linkedin.com/in/chinnayyadevops/)  
 - **GitHub:** [github.com/chinnayyachintha](https://github.com/chinnayyachintha)  
 
 ---
 
-🔋 **Fun Fact:** I love automating repetitive tasks and focusing on impactful innovations. 😊  
+🔋 **Fun Fact:** I love automating repetitive tasks and focusing on impactful innovations. 😊
+
