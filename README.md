@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chinnayya Chintha  
 
-🚀 **Site Reliability Engineer & Associate Consultant at Yash Technologies**  
+🚀 **Associate Consultant at Yash Technologies**  
 🔧 Passionate about **Cloud Infrastructure, DevOps Automation, and Site Reliability Engineering**  
 
 ---
