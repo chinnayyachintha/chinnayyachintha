@@ -1,60 +1,56 @@
-# Chinnayya Chintha 👋  
+# 👋 Hi, I'm Chinnayya Chintha  
 
-🚀 **DevOps Engineer | Cloud Automation | AWS Infrastructure Management | CI/CD Optimization**  
+🚀 **Site Reliability Engineer & Associate Consultant at Yash Technologies**  
+🔧 Passionate about **Cloud Infrastructure, DevOps Automation, and Site Reliability Engineering**  
 
 ---
 
 ## 🌟 About Me  
-Hi! I'm Chinnayya, a passionate **DevOps Engineer** specializing in **AWS cloud infrastructure**, **Kubernetes**, and **CI/CD automation**. I have **2 years of experience** in optimizing cloud environments, automating deployments, and ensuring high availability. My focus is on **Infrastructure as Code (IaC)**, **cloud security**, and **continuous integration and delivery (CI/CD)**. I love solving complex infrastructure challenges and sharing knowledge with the DevOps community.
+I am a **DevOps & Cloud Engineer** dedicated to automating complex infrastructures, optimizing deployment pipelines, and achieving **resilient, scalable, and secure systems** with minimal downtime.  
+
+I specialize in **AWS, Terraform, Kubernetes, CI/CD, and monitoring solutions** that drive **system reliability, scalability, and security**. My mission is to simplify complex DevOps practices while enabling teams to deliver faster and safer.  
+
+---
+
+## 💼 Professional Experience  
+
+### **Associate Consultant | Site Reliability Engineer**  
+**Yash Technologies** | *Present*  
+- Automated the creation and management of **AWS resources** with Terraform.  
+- Implemented **AWS Control Tower** & **Organizations** for secure multi-account governance.  
+- Designed & maintained **EKS clusters**, **EFS storage**, **VPC networking**, and **IAM/IAM Identity Center**.  
+- Ensured compliance, security, and efficiency in cloud operations through automation and best practices.  
+
+### **Cloud & DevOps Engineer**  
+**UJR Technologies** | *Previous Role*  
+- Automated cloud provisioning using **Terraform** & **CloudFormation**.  
+- Optimized **CI/CD pipelines** with Jenkins, GitHub Actions, and GitLab CI/CD (40% faster deployments).  
+- Implemented security best practices with **IAM policies, AWS KMS, and Secrets Manager**.  
+- Enhanced observability with **CloudWatch, Prometheus, and ELK**, reducing downtime by 30%.  
+- Led **incident response** and troubleshooting, ensuring **99.9% uptime**.  
 
 ---
 
 ## 🔧 Technical Skills  
-- **Cloud Platforms:**  
-  - AWS (VPC, EC2, S3, RDS, Lambda, API Gateway, DynamoDB, IAM, CloudTrail, CloudWatch, Route53, VPN)  
-- **DevOps Tools:**  
-  - Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Azure DevOps  
-- **CI/CD:**  
-  - Jenkins, Argo CD, Git, Bitbucket  
-- **Monitoring & Security:**  
-  - Prometheus, Grafana, Datadog, ELK Stack, SonarQube, OWASP, Kali Linux  
-- **Programming Languages:**  
-  - Python, Bash, YAML, JSON  
-
----
-
-## 🛠️ Notable Projects  
-
-### **1. AWS Infrastructure Automation Using Terraform**  
-- Automated AWS infrastructure deployment, reducing resource management time by 30%.  
-- Wrote Terraform scripts for provisioning resources across Dev, UAT, and Production environments.  
-- Integrated Terraform with Jenkins pipelines to achieve seamless CI/CD workflows.  
-
-### **2. CI/CD Pipeline for Microservices Deployment**  
-- Designed a CI/CD pipeline for Python and JavaScript microservices using **Jenkins** and **Terraform**.  
-- Achieved a 40% reduction in deployment time and ensured compliance with security standards.  
-- Leveraged AWS services like EC2, VPC, S3, and RDS for performance and scalability.  
-
-### **3. Kubernetes Cluster Management with Monitoring**  
-- Deployed scalable **Kubernetes clusters** on AWS using **KOPS**.  
-- Integrated **Prometheus** and **Grafana** for real-time monitoring and alerting.  
-- Enhanced application uptime by 15% through proactive troubleshooting and issue resolution.  
+- **Cloud Platforms:** AWS (Control Tower, Organizations, VPC, EC2, S3, RDS, DynamoDB, Lambda, API Gateway, IAM, CloudTrail, CloudWatch, Route53)  
+- **DevOps Tools:** Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, Docker, Kubernetes, Helm, Argo CD  
+- **Monitoring & Security:** Prometheus, Grafana, ELK Stack, Dynatrace, AWS Config, GuardDuty, Security Hub  
+- **Programming & Scripting:** Python, Bash, YAML, JSON  
 
 ---
 
 ## 🚀 Current Focus  
-- Enhancing expertise in **Argo CD** and **OpenShift**.  
-- Exploring **advanced cloud security strategies** and **cost optimization techniques**.  
-- Writing **technical blogs** on **AWS**, **Terraform**, and **Kubernetes**.  
+- Scaling **multi-account AWS environments** with **governance & automation**.  
+- Advancing **cloud security & compliance** monitoring.  
+- Sharing knowledge through **blogs & mentoring**.  
 
 ---
 
-## 📢 Get in Touch!  
+## 📫 Connect With Me  
 - **Email:** [chinnayya339@gmail.com](mailto:chinnayya339@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/chinnayyadevops/](https://www.linkedin.com/in/chinnayyadevops/)  
+- **LinkedIn:** [linkedin.com/in/chinnayyadevops](https://www.linkedin.com/in/chinnayyadevops/)  
 - **GitHub:** [github.com/chinnayyachintha](https://github.com/chinnayyachintha)  
 
 ---
 
-🔋 **Fun Fact:** I love automating repetitive tasks and focusing on impactful innovations. 😊
-
+💡 *I love automating repetitive tasks and designing scalable cloud-native solutions that drive innovation!*  
