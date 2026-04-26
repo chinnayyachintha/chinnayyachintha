@@ -68,8 +68,6 @@ My focus is on **automation-first infrastructure, cloud governance, scalability,
 
 ### 🔐 Security & DevSecOps
 <p>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="48" height="48" />
 </p>
 
@@ -85,29 +83,11 @@ My focus is on **automation-first infrastructure, cloud governance, scalability,
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚧 Coming soon: AWS Governance & Terraform deep dives
-- 🚧 Coming soon: EKS troubleshooting real-world cases
-- 🚧 Coming soon: SCP & Cloud Custodian use-cases
-<!-- BLOG-POST-LIST:END -->
-
-📚 (Planning to start writing consistently)
-
----
-
 ## 🌍 Community & Learning
 
 - 📖 Currently improving **Kubernetes troubleshooting skills**
 - 🔐 Exploring deeper into **cloud security engineering**
 - ⚙️ Building real-world **DevOps automation projects**
-
----
-
-## ☕ Support My Work
-
-*(Will be added in future)*
 
 ---
 
