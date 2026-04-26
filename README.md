@@ -1,120 +1,139 @@
-# 👋 Hi, I'm Chinnayya Chintha
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-🚀 AWS DevOps & Platform Engineer | Terraform • Kubernetes • Cloud Governance  
+<h1 align="center">Hi 👋, I'm Chinnayya Chintha from India 🇮🇳</h1>
 
-I build **scalable, automated, and secure cloud infrastructure** on AWS with a strong focus on **multi-account governance and platform engineering**.
+<h3 align="center">
+AWS DevOps & Platform Engineer | Terraform • Kubernetes • Cloud Governance
+</h3>
 
----
+<img align="right" alt="DevOps Automation" width="380" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
-## ⚡ About Me
-
-- 🔧 3+ years of hands-on experience in AWS & DevOps
-- ☁️ Working extensively on **AWS Control Tower & Organizations**
-- 🏗 Building infrastructure using **Terraform (IaC-first approach)**
-- ☸️ Managing **EKS-based Kubernetes platforms**
-- 🔐 Strong focus on **cloud security & governance automation**
-- 🤖 Passionate about **automating everything (zero manual work mindset)**
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=chinnayyachintha&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+<h2>👨‍💻 About Me</h2>
+
+I am a DevOps & Cloud Engineer with **3+ years of hands-on experience** designing and operating AWS infrastructure and Kubernetes platforms.
+
+My focus is on **automation-first infrastructure, cloud governance, scalability, and reliability** across production environments.
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+<img src="https://img.shields.io/badge/Terraform-Associate-blue?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+- Design and manage **AWS multi-account environments using Control Tower & Organizations**
+- Implement **SCP-based governance and compliance automation**
+- Build reusable **Terraform modules for scalable infrastructure**
+- Manage **EKS-based Kubernetes platforms (production workloads)**
+- Automate CI/CD pipelines using **GitHub Actions, GitLab CI, Jenkins**
+- Implement monitoring using **Prometheus, Grafana, ELK, CloudWatch**
+- Automate compliance using **AWS Config & Cloud Custodian**
+
+---
+
+## 🧰 DevOps Toolchain
 
 ### ☁️ Cloud & Infrastructure
-- AWS (Control Tower, Organizations, EC2, S3, IAM, VPC, Lambda, RDS)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,terraform" />
+</p>
 
-### 🧱 Infrastructure as Code
-- Terraform (Primary)
-- CloudFormation
-- Ansible (Basic usage)
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
 
-### ☸️ Containers & Orchestration
-- Docker
-- Kubernetes (EKS)
-- Helm
-- ArgoCD
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
 
-### 🔄 CI/CD
-- GitHub Actions
-- GitLab CI/CD
-- Jenkins
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+</p>
 
-### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
-- ELK Stack
-- CloudWatch
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://cdn.simpleicons.org/sonarqube" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/amazonaws" width="48" height="48" />
+</p>
 
-### 🔐 Security
-- AWS Config
-- GuardDuty
-- Security Hub
-- Cloud Custodian
-- SonarQube (Code Quality)
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+</p>
 
-### 💻 Scripting & OS
-- Python
-- Bash
-- Linux
-
-### 🔁 Version Control
-- GitHub
-- GitLab
-- Bitbucket
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux" />
+</p>
 
 ---
 
-## 🔥 What I've Built
+## ✍️ Latest Blog Posts
 
-- 🏗 **AWS Landing Zone** using Control Tower (multi-account setup)
-- 🔐 **SCP-based governance model** for enterprise environments
-- ⚙️ Reusable **Terraform modules** for scalable infra
-- 🛡 Automated compliance using **AWS Config + Cloud Custodian**
-- 🚨 Integrated **GuardDuty & Security Hub** for threat detection
-- 📈 Improved deployment speed by **40%**
-- 📉 Reduced downtime by **30%**
+<!-- BLOG-POST-LIST:START -->
+- 🚧 Coming soon: AWS Governance & Terraform deep dives
+- 🚧 Coming soon: EKS troubleshooting real-world cases
+- 🚧 Coming soon: SCP & Cloud Custodian use-cases
+<!-- BLOG-POST-LIST:END -->
 
----
-
-## 🚧 Current Focus
-
-- ⚡ Advanced **AWS Governance Automation**
-- ☸️ Deep dive into **Kubernetes troubleshooting & internals**
-- 🔐 Improving **cloud security engineering skills**
-- 📦 Building real-world **production-grade DevOps projects**
+📚 (Planning to start writing consistently)
 
 ---
 
-## 📂 Featured Projects (Coming Strong 🚀)
+## 🌍 Community & Learning
 
-- AWS Multi-Account Governance (Terraform + SCP)
-- EKS Platform with EFS (Production Setup)
-- Automated Tagging Enforcement System
-- Cloud Custodian Policy Framework
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnayyachintha&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnayyachintha&layout=compact&theme=tokyonight)
+- 📖 Currently improving **Kubernetes troubleshooting skills**
+- 🔐 Exploring deeper into **cloud security engineering**
+- ⚙️ Building real-world **DevOps automation projects**
 
 ---
 
-## 🧠 Certifications
+## ☕ Support My Work
 
-- 🏆 Terraform Associate
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/chinnayyadevops  
-- 🐙 GitHub: https://github.com/chinnayyachintha  
-- 📧 Email: chinnayya339@gmail.com  
+*(Will be added in future)*
 
 ---
 
-## 💬 Final Thought
+## 🤝 Connect With Me
 
-> I don't just deploy infrastructure — I design **scalable systems, enforce governance, and automate everything**.
+<p align="left">
+<a href="https://linkedin.com/in/chinnayyadevops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/chinnayyachintha"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chinnayyachintha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnayyachintha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinnayyachintha&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+📫 Reach me at **chinnayya339@gmail.com**  
+⚡ Fun fact: I focus on automating everything — if it's manual, I optimize it
