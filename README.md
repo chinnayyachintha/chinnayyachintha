@@ -68,8 +68,9 @@ My focus is on **automation-first infrastructure, cloud governance, scalability,
 
 ### 🔐 Security & DevSecOps
 <p>
-<img src="https://cdn.simpleicons.org/sonarqube" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/amazonaws" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sonarqube.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="48" height="48" />
 </p>
 
 ### 🗄️ Version Control & Collaboration
