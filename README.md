@@ -1,83 +1,120 @@
-# 👋 Hi, I'm Chinnayya Chintha  
+# 👋 Hi, I'm Chinnayya Chintha
 
-🚀 **AWS Platform & DevOps Engineer**  
-Specializing in **Multi-Account Governance | Terraform | Kubernetes | Cloud Security**
+🚀 AWS DevOps & Platform Engineer | Terraform • Kubernetes • Cloud Governance  
 
----
-
-## 💡 What I Do
-
-I design and operate **production-grade AWS infrastructure** with a strong focus on:
-
-- 🔐 AWS **Control Tower & Organizations (Multi-Account Setup)**
-- 🛡 **Service Control Policies (SCP) & Governance Automation**
-- ⚙️ **Terraform-based Infrastructure (EKS, VPC, IAM, EFS)**
-- ☸️ **Kubernetes (EKS) Platform Engineering**
-- 🔄 **CI/CD Pipelines (GitHub Actions, GitLab CI, Jenkins)**
-- 📊 **Monitoring & Observability (CloudWatch, Prometheus, ELK)**
-- 🚨 **Incident Response & Troubleshooting (99.9% uptime)**
+I build **scalable, automated, and secure cloud infrastructure** on AWS with a strong focus on **multi-account governance and platform engineering**.
 
 ---
 
-## 🔥 Key Work I’ve Done
+## ⚡ About Me
 
-- Designed **enterprise AWS landing zones** using Control Tower  
-- Implemented **SCP-based governance** across multiple accounts  
-- Built **Terraform modules** for scalable infrastructure  
-- Automated compliance using **Cloud Custodian & AWS Config**  
-- Integrated **GuardDuty, Security Hub for security monitoring**  
-- Improved deployment speed by **40%**  
-- Reduced downtime by **30%**  
-
----
-
-## 🧠 Core Skills
-
-**Cloud:**  
-AWS (Control Tower, Organizations, EC2, S3, RDS, Lambda, VPC, IAM)
-
-**Infrastructure as Code:**  
-Terraform, CloudFormation  
-
-**Containers & Orchestration:**  
-Docker, Kubernetes (EKS), Helm  
-
-**CI/CD:**  
-GitHub Actions, GitLab CI/CD, Jenkins  
-
-**Monitoring & Security:**  
-CloudWatch, Prometheus, ELK, GuardDuty, Security Hub, AWS Config  
-
-**Scripting:**  
-Python, Bash  
+- 🔧 3+ years of hands-on experience in AWS & DevOps
+- ☁️ Working extensively on **AWS Control Tower & Organizations**
+- 🏗 Building infrastructure using **Terraform (IaC-first approach)**
+- ☸️ Managing **EKS-based Kubernetes platforms**
+- 🔐 Strong focus on **cloud security & governance automation**
+- 🤖 Passionate about **automating everything (zero manual work mindset)**
 
 ---
 
-## 🏗️ What I’m Building
+## 🛠 Tech Stack
 
-- AWS Multi-Account Governance (Terraform + SCP + Config)
-- EKS Platform with EFS (Production-ready setup)
-- Automated Tagging & Compliance Enforcement
-- Cloud Custodian Policy Automation
+### ☁️ Cloud & Infrastructure
+- AWS (Control Tower, Organizations, EC2, S3, IAM, VPC, Lambda, RDS)
+
+### 🧱 Infrastructure as Code
+- Terraform (Primary)
+- CloudFormation
+- Ansible (Basic usage)
+
+### ☸️ Containers & Orchestration
+- Docker
+- Kubernetes (EKS)
+- Helm
+- ArgoCD
+
+### 🔄 CI/CD
+- GitHub Actions
+- GitLab CI/CD
+- Jenkins
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- ELK Stack
+- CloudWatch
+
+### 🔐 Security
+- AWS Config
+- GuardDuty
+- Security Hub
+- Cloud Custodian
+- SonarQube (Code Quality)
+
+### 💻 Scripting & OS
+- Python
+- Bash
+- Linux
+
+### 🔁 Version Control
+- GitHub
+- GitLab
+- Bitbucket
 
 ---
 
-## 🎯 Current Focus
+## 🔥 What I've Built
 
-- Scaling **AWS governance & automation**
-- Improving **Kubernetes troubleshooting skills**
-- Building **real-world DevOps projects**
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/chinnayyadevops  
-- GitHub: https://github.com/chinnayyachintha  
-- Email: chinnayya339@gmail.com  
+- 🏗 **AWS Landing Zone** using Control Tower (multi-account setup)
+- 🔐 **SCP-based governance model** for enterprise environments
+- ⚙️ Reusable **Terraform modules** for scalable infra
+- 🛡 Automated compliance using **AWS Config + Cloud Custodian**
+- 🚨 Integrated **GuardDuty & Security Hub** for threat detection
+- 📈 Improved deployment speed by **40%**
+- 📉 Reduced downtime by **30%**
 
 ---
 
-## 💬 Final Note
+## 🚧 Current Focus
 
-I focus on building **secure, scalable, and automated systems** — not just deploying infrastructure.
+- ⚡ Advanced **AWS Governance Automation**
+- ☸️ Deep dive into **Kubernetes troubleshooting & internals**
+- 🔐 Improving **cloud security engineering skills**
+- 📦 Building real-world **production-grade DevOps projects**
+
+---
+
+## 📂 Featured Projects (Coming Strong 🚀)
+
+- AWS Multi-Account Governance (Terraform + SCP)
+- EKS Platform with EFS (Production Setup)
+- Automated Tagging Enforcement System
+- Cloud Custodian Policy Framework
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinnayyachintha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnayyachintha&layout=compact&theme=tokyonight)
+
+---
+
+## 🧠 Certifications
+
+- 🏆 Terraform Associate
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/chinnayyadevops  
+- 🐙 GitHub: https://github.com/chinnayyachintha  
+- 📧 Email: chinnayya339@gmail.com  
+
+---
+
+## 💬 Final Thought
+
+> I don't just deploy infrastructure — I design **scalable systems, enforce governance, and automate everything**.
